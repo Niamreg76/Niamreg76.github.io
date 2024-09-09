@@ -1,0 +1,225 @@
+.bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .inter {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .logo{
+    margin-left: 46px;
+    margin-top: -35px;
+    z-index: 10;
+    position: absolute;
+    width: 200px;
+  }
+
+  .grey-dot {
+    height: 700px;
+    width: 700px;
+    background-color: #BEB8AC;
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    left: -200px;
+    top: -300px;
+    z-index: 5;
+  }
+
+  .white-dot{
+    height: 500px;
+    width: 500px;
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    left: -100px;
+    top: -200px;
+    z-index: 6;
+  }
+  .title{
+    position: relative;
+    z-index: 7;
+    color: #FFFFFF;
+    margin-left: 40%;
+  }
+
+  .title .bebas-neue-regular{
+    font-size: 100px;
+    margin-bottom: -20px;
+  }
+
+  .title .inter{
+    font-size: 20px;
+    margin-left: 15%;
+  }
+
+  .white-bar{
+    height: 6px;
+    width: 100px;
+    color: #FFFFFF;
+    margin-left: 40%;
+    position: relative;
+    z-index: 15;
+  }
+
+body{
+    background-color: black;
+  }
+  
+  .festival-img{
+    height: 80%;
+    width: 80%;
+    margin-left: 10%;
+    border: black;
+    border-radius: 20px;
+    padding-bottom: 43px;
+  }
+
+.white-bg{
+    background-color: #FFFFFF;
+    margin-left: -7px;
+    margin-right: -7px;
+}
+
+.white-bg h2{
+    padding-top: 38px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 80px;
+}
+
+.marquage{
+    background: lavender;
+}
+
+.grey-bg{
+    background-color: #BEB8AC;
+    margin-left: -7px;
+    margin-right: -7px;
+}
+.phone-text{
+    display: flex;
+    padding-top: 60px;
+    padding-right: 60px;
+    padding-left: 100px;
+}
+
+.description{
+    padding-left: 50px;
+    align-items: center;
+}
+
+.poppins-thin {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .poppins-extralight {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  .poppins-light {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .poppins-semibold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .poppins-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .poppins-extrabold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+  .poppins-black {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .poppins-thin-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .poppins-extralight-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: italic;
+  }
+  
+  .poppins-light-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .poppins-regular-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .poppins-medium-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .poppins-semibold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+  }
+  
+  .poppins-bold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .poppins-extrabold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: italic;
+  }
+  
+  .poppins-black-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+  
