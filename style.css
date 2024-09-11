@@ -235,22 +235,27 @@ body{
   .blob1-text{
     position: relative;
     color: black;
+    margin-top: -150px;
   }
 
   .blob3-text{
     position: relative;
     color: black;
     padding-left: 0px;
+    margin-top: -350px;
   }
 
   .blob-phone{
     display: flex;
     flex-direction: column;
+    margin-left: 20%;
   }
 
   .blob3{
     display: none;
   }
+
+
 }
 
 
@@ -278,7 +283,7 @@ body{
 
 @media only screen and (min-width: 1600px) {
   .blob3-text{
-    padding-left: 1200px;
+    padding-left: 1150px;
     padding-top: 320px;
     font-size: large;
   }
@@ -324,7 +329,7 @@ body{
   }
 
   .blob3-text{
-    padding-left: 1600px;
+    padding-left: 1550px;
     padding-top: 400px;
     font-size: x-large;
   }
