@@ -1,3 +1,4 @@
+/* SECTION 1 */
 .bebas-neue-regular {
     font-family: "Bebas Neue", sans-serif;
     font-weight: 400;
@@ -81,6 +82,9 @@ body{
     padding-bottom: 43px;
   }
 
+/* FIN SECTION 1 */
+
+/* SECTION 2 */
 .white-bg{
     background-color: #FFFFFF;
     margin-left: -7px;
@@ -97,7 +101,9 @@ body{
 .marquage{
     background: lavender;
 }
+/* FIN SECTION 2 */
 
+/* SECTION 3 */
 .grey-bg{
     background-color: #BEB8AC;
     margin-left: -7px;
@@ -130,7 +136,9 @@ body{
 .apple{
     margin-left: 80px;
 }
+/* FIN SECTION 3 */
 
+/* SECTION 4 */
 .fullphone{
     padding-top: 60px;
     padding-bottom: 70px;
@@ -177,6 +185,7 @@ body{
     padding-left: 1040px;
     color: #FFFFFF;
 }
+/* FIN SECTION 4 */
 
 /* Style pour la popup d'installation */
 .install-popup {
