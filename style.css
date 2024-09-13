@@ -280,6 +280,24 @@ body{
 
 
 @media only screen and (max-width: 500px) {
+    .white-bg h2 {
+        padding: 20px 50px 20px 50px;
+        font-size: 20px;
+    }
+
+    .poppins-bold {
+        font-size: 20px;
+    }
+
+    .phone-text {
+        padding-right: 5%;
+        padding-left: 5%;
+    }
+
+    .title .bebas-neue-regular {
+        padding-left: 1rem
+    }
+
   .fullphone{
     width: 300px;
   }
